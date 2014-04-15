@@ -61,6 +61,14 @@ $>python app.py
 You can interact with the API on localhost:5000
 
 
+### Supervision
+
+TODO:
+- supervisor install instructions  
+- supervisor config to run this as daemon  
+
+
+
 Reference
 [Automation Challenges](https://github.com/meconlin/automation-challenges)
 []()
